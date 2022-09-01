@@ -1,2 +1,2 @@
 # Matrix-Calculator
-A Calculator that can do simple Linear Algebra Computations
+A command line Calculator that can do most Linear Algerbra Calculations. It is currently incomplete so some features are missing.
